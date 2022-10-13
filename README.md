@@ -69,5 +69,5 @@ Requires [Neovim](https://neovim.io/) (>= 0.8)
 
 Watch my video tutorials:
  
-   - [Blogpost](https://dev.to/craftzdog/a-productive-command-line-git-workflow-for-indie-app-developers-k7d)
+   - [Blogpost](https://nothanii.vercel.app/blog/How%20to%20use%20Vim))
  
